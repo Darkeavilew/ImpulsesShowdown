@@ -752,7 +752,6 @@ let Formats = [
 		],
 
 		mod: 'gen7',
-		searchShow: false,
 		ruleset: ['[Gen 7] OU', 'STABmons Move Legality'],
 		banlist: ['Aerodactyl-Mega', 'Blacephalon', 'Kartana', 'Komala', 'Kyurem-Black', 'Porygon-Z', 'Silvally', 'Tapu Koko', 'Tapu Lele', 'King\'s Rock', 'Razor Fang'],
 		restrictedMoves: ['Acupressure', 'Belly Drum', 'Chatter', 'Extreme Speed', 'Geomancy', 'Lovely Kiss', 'Shell Smash', 'Shift Gear', 'Spore', 'Thousand Arrows'],
@@ -764,7 +763,6 @@ let Formats = [
 			`&bullet; <a href="https://www.smogon.com/forums/threads/3598418/">Camomons</a>`,
 		],
 		mod: 'gen7',
-		searchShow: false,
 		ruleset: ['[Gen 7] OU'],
 		banlist: ['Kartana', 'Kyurem-Black', 'Shedinja'],
 		onModifyTemplate: function (template, target, source) {
@@ -874,7 +872,6 @@ let Formats = [
 
 		mod: 'gen7',
 		gameType: 'doubles',
-		searchShow: false,
 		teamLength: {
 			validate: [2, 4],
 			battle: 2,
@@ -890,8 +887,6 @@ let Formats = [
 		name: "[Gen 6] Gen-NEXT OU",
 
 		mod: 'gennext',
-		searchShow: false,
-		challengeShow: false,
 		ruleset: ['Pokemon', 'Standard NEXT', 'Team Preview'],
 		banlist: ['Uber'],
 	},
@@ -910,7 +905,6 @@ let Formats = [
 		isWildEncounter: true,
 		allowBag: true,
 		takeItems: true,
-		challengeShow: false,
 		mod: 'sggame',
 		ruleset: ['HP Percentage Mod', 'Cancel Mod'],
 		banlist: ['CAP'],
@@ -923,7 +917,6 @@ let Formats = [
 		isTrainerBattle: true,
 		allowBag: true,
 		takeItems: true,
-		challengeShow: false,
 		mod: 'sggame',
 		ruleset: ['Endless Battle Clause', 'HP Percentage Mod', 'Cancel Mod'],
 		banlist: ['CAP'],
