@@ -1,0 +1,37 @@
+{
+  "zeruora": [
+    {
+      "id": "primalclashnidoran",
+      "name": "Nidoran♀",
+      "pack": "Primal Clash",
+      "packid": "xy5",
+      "type": "Psychic",
+      "image": "https://images.pokemontcg.io/xy5/66.png",
+      "cardType": "Basic",
+      "species": "Nidoran-F",
+      "rarity": "Common"
+    },
+    {
+      "id": "primalclashmeditite",
+      "name": "Meditite",
+      "pack": "Primal Clash",
+      "packid": "xy5",
+      "type": "Fighting",
+      "image": "https://images.pokemontcg.io/xy5/79.png",
+      "cardType": "Basic",
+      "species": "Meditite",
+      "rarity": "Common"
+    },
+    {
+      "id": "primalclashchinchou",
+      "name": "Chinchou",
+      "pack": "Primal Clash",
+      "packid": "xy5",
+      "type": "Lightning",
+      "image": "https://images.pokemontcg.io/xy5/57.png",
+      "cardType": "Basic",
+      "species": "Chinchou",
+      "rarity": "Common"
+    }
+  ]
+}
