@@ -1,0 +1,535 @@
+{
+  "cyanbeats": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "cyanbeats",
+    "poke": 0,
+    "time": 6432056,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 0,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 2
+      },
+      "pokeballs": {
+        "pokeball": 50,
+        "greatball": 17,
+        "ultraball": 0,
+        "masterball": 1
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "jolteon",
+        "species": "jolteon",
+        "item": "",
+        "ability": "Volt Absorb",
+        "moves": [
+          "babydolleyes",
+          "tailwhip",
+          "tackle",
+          "thundershock"
+        ],
+        "nature": "Modest",
+        "gender": "M",
+        "ivs": {
+          "hp": 5,
+          "atk": 5,
+          "def": 13,
+          "spa": 4,
+          "spd": 0,
+          "spe": 27
+        },
+        "level": 16,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 4758.43402747801,
+        "ot": "cyanbeats",
+        "evs": {
+          "hp": 5,
+          "atk": 4,
+          "def": 3,
+          "spa": 3,
+          "spd": 4,
+          "spe": 7
+        }
+      },
+      {
+        "name": "kyogre",
+        "species": "kyogre",
+        "item": "",
+        "ability": "Drizzle",
+        "moves": [
+          "scaryface",
+          "waterpulse",
+          "ancientpower"
+        ],
+        "nature": "Calm",
+        "gender": "N",
+        "ivs": {
+          "hp": 11,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 7,
+          "spe": 26
+        },
+        "level": 15,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "ultraball",
+        "exp": 4986.021871263058,
+        "ot": "cyanbeats",
+        "evs": {
+          "hp": 2,
+          "atk": 0,
+          "def": 1,
+          "spa": 0,
+          "spd": 0,
+          "spe": 3
+        }
+      },
+      {
+        "name": "diancie",
+        "species": "diancie",
+        "item": "",
+        "ability": "Clear Body",
+        "moves": [
+          "reflect",
+          "smackdown",
+          "sharpen",
+          "tackle"
+        ],
+        "nature": "Hasty",
+        "gender": "N",
+        "ivs": {
+          "hp": 2,
+          "atk": 29,
+          "def": 31,
+          "spa": 11,
+          "spd": 31,
+          "spe": 31
+        },
+        "level": 14,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "greatball",
+        "exp": 3430,
+        "ot": "cyanbeats"
+      }
+    ],
+    "pokedex": {}
+  },
+  "pufflefriends": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "pufflefriends",
+    "poke": 0,
+    "time": 3204111,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3
+      },
+      "pokeballs": {
+        "pokeball": 50,
+        "greatball": 25,
+        "ultraball": 10,
+        "masterball": 1
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "popplio",
+        "species": "popplio",
+        "item": "",
+        "ability": "Torrent",
+        "moves": [
+          "disarmingvoice",
+          "growl",
+          "watergun",
+          "pound"
+        ],
+        "nature": "Naughty",
+        "gender": "M",
+        "ivs": {
+          "hp": 5,
+          "atk": 10,
+          "def": 6,
+          "spa": 23,
+          "spd": 1,
+          "spe": 6
+        },
+        "level": 10,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 585.2096876636093,
+        "ot": "pufflefriends",
+        "evs": {
+          "hp": 1,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        }
+      }
+    ],
+    "pokedex": {}
+  },
+  "skyrimkiller": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "skyrimkiller",
+    "poke": 0,
+    "time": 0,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3
+      },
+      "pokeballs": {
+        "pokeball": 50,
+        "greatball": 25,
+        "ultraball": 10,
+        "masterball": 1
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "charmander",
+        "species": "charmander",
+        "item": "",
+        "ability": "Blaze",
+        "moves": [
+          "smokescreen",
+          "ember",
+          "scratch",
+          "growl"
+        ],
+        "nature": "Impish",
+        "gender": "F",
+        "ivs": {
+          "hp": 19,
+          "atk": 31,
+          "def": 9,
+          "spa": 18,
+          "spd": 2,
+          "spe": 12
+        },
+        "level": 10,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 560,
+        "ot": "skyrimkiller"
+      }
+    ],
+    "pokedex": {}
+  },
+  "guest60": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "guest60",
+    "poke": 0,
+    "time": 74511,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3
+      },
+      "pokeballs": {
+        "pokeball": 50,
+        "greatball": 25,
+        "ultraball": 10,
+        "masterball": 1
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "chimchar",
+        "species": "chimchar",
+        "item": "",
+        "ability": "Blaze",
+        "moves": [
+          "taunt",
+          "ember",
+          "scratch",
+          "leer"
+        ],
+        "nature": "Relaxed",
+        "gender": "M",
+        "ivs": {
+          "hp": 29,
+          "atk": 5,
+          "def": 29,
+          "spa": 17,
+          "spd": 12,
+          "spe": 18
+        },
+        "level": 10,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 560,
+        "ot": "guest60"
+      }
+    ],
+    "pokedex": {}
+  },
+  "anaconja": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "anaconja",
+    "poke": 0,
+    "time": 0,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3
+      },
+      "pokeballs": {
+        "pokeball": 47,
+        "greatball": 25,
+        "ultraball": 10,
+        "masterball": 1
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "Assface",
+        "species": "chimchar",
+        "item": "",
+        "ability": "Blaze",
+        "moves": [
+          "taunt",
+          "ember",
+          "scratch",
+          "leer"
+        ],
+        "nature": "Impish",
+        "gender": "M",
+        "ivs": {
+          "hp": 18,
+          "atk": 22,
+          "def": 27,
+          "spa": 27,
+          "spd": 24,
+          "spe": 15
+        },
+        "level": 13,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 1371.3539547214539,
+        "ot": "anaconja",
+        "evs": {
+          "hp": 0,
+          "atk": 1,
+          "def": 0,
+          "spa": 2,
+          "spd": 2,
+          "spe": 0
+        }
+      },
+      {
+        "name": "shuppet",
+        "species": "shuppet",
+        "item": "",
+        "ability": "Insomnia",
+        "moves": [
+          "spite",
+          "nightshade",
+          "screech",
+          "knockoff"
+        ],
+        "nature": "Brave",
+        "gender": "F",
+        "ivs": {
+          "hp": 13,
+          "atk": 11,
+          "def": 14,
+          "spa": 9,
+          "spd": 25,
+          "spe": 28
+        },
+        "level": 10,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 800,
+        "ot": "anaconja"
+      },
+      {
+        "name": "drampa",
+        "species": "drampa",
+        "item": "",
+        "ability": "Sap Sipper",
+        "moves": [
+          "glare",
+          "protect",
+          "twister",
+          "playnice"
+        ],
+        "nature": "Modest",
+        "gender": "M",
+        "ivs": {
+          "hp": 13,
+          "atk": 11,
+          "def": 10,
+          "spa": 27,
+          "spd": 12,
+          "spe": 6
+        },
+        "level": 15,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 3375,
+        "ot": "anaconja"
+      }
+    ],
+    "pokedex": {}
+  }
+}

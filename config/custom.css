@@ -3264,3 +3264,11 @@ body {
     border-color: #000 !important;
   }
 /* CSS End */
+/* COLORS START */
+[class$="chatmessage-cyanbeats"] strong, [class$="chatmessage-cyanbeats mine"] strong, [class$="chatmessage-cyanbeats highlighted"] strong, [id$="-userlist-user-cyanbeats"] strong em, [id$="-userlist-user-cyanbeats"] strong, [id$="-userlist-user-cyanbeats"] span{
+color: #55d3ef !important;
+}
+[class$="chatmessage-zeruora"] strong, [class$="chatmessage-zeruora mine"] strong, [class$="chatmessage-zeruora highlighted"] strong, [id$="-userlist-user-zeruora"] strong em, [id$="-userlist-user-zeruora"] strong, [id$="-userlist-user-zeruora"] span{
+color: purple !important;
+}
+/* COLORS END */

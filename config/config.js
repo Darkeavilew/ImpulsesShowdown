@@ -10,7 +10,7 @@ exports.port = 8000;
  */
 exports.serverName = 'SurgeWavers';
 exports.serverid = 'surgewavers';
-exports.servertoken = 'ckiFnxiNwVYO';
+exports.servertoken = 'd+qeJEfL+Gbj';
 /**
 * The server IP - Being used to show avatars in profile.
 */
@@ -488,7 +488,7 @@ exports.disablehotpatchall = false;
  */
 exports.grouplist = [
 	{
-		symbol: '~',
+		symbol: '⚒',
 		id: "admin",
 		name: "Administrator",
 		root: true,

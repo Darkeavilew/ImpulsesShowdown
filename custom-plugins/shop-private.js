@@ -211,7 +211,7 @@ exports.commands = {
 		let selectionType = false;
 		let selection = false;
 		let isUpdate;
-		let marquee = 'Welcome to the ' + serverName + ' Server Shop! Credit for the original code goes to Lights; any feedback is welcome.';
+		let marquee = 'Welcome to the ' + serverName + ' Server Shop!';
 		if (target) {
 			if (target.trim() === 'help') {
 				return this.sendReplyBox("/shop - opens shop UI<br/>/receipts - lists your recent receipts<br/>/receipt [receipt ID] - displays the details of the specified receipt if you are the owner<br/>/receipts view, [user] - lists receipts of the specified user (requires @)<br/>Multi-Shop overhaul by Lights");
