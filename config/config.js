@@ -8,13 +8,13 @@ exports.port = 8000;
 /**
  * The server Namr - Being used to rename custom-plugins.
  */
-exports.serverName = 'SurgeWavers';
-exports.serverid = 'surgewavers';
-exports.servertoken = 'd+qeJEfL+Gbj';
+exports.serverName = 'Star';
+exports.serverid = 'star';
+exports.servertoken = 'DF54eGeUGAN';
 /**
 * The server IP - Being used to show avatars in profile.
 */
-exports.serverIp = 'surgewavers';
+exports.serverIp = 'star';
 
 /**
  * The server address - the address at which Pokemon Showdown should be hosting
@@ -488,25 +488,14 @@ exports.disablehotpatchall = false;
  */
 exports.grouplist = [
 	{
-		symbol: '⚒',
+		symbol: '~',
 		id: "admin",
 		name: "Administrator",
 		root: true,
 		globalonly: true,
 	},
 		{
-		symbol: '^',
-		id: "captain",
-		name: "Captain",
-		inherit: '&',
-		jurisdiction: 'u',
-		promote: 'u',
-		lockdown: true,
-    pmall: true, 
-    masspm: true,
-    hotpatch: true,
-	},
-  {
+
 		symbol: '&',
 		id: "leader",
 		name: "Leader",
@@ -635,6 +624,15 @@ exports.grouplist = [
 		minigame: true,
 		// Custom
 		lottery: true,
+	},
+	{
+			symbol: '\u2295',
+		id: "operator",
+		name: "Operator",
+		inherit: ' ',
+		alts: 's',
+		broadcast: true,
+		tournaments: true,
 	},
 	{
 		symbol: '+',
